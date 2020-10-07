@@ -1,4 +1,6 @@
 print("hi!!")
 print("bye!!!")
-print("do!!")
-
+a=5
+if a==5: print("good")
+else:
+  print("bad")
